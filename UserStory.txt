@@ -1,0 +1,18 @@
+US-Challenge-01 — Learner improves secure coding skills through fixing a real vulnerability
+
+As a beginner software engineer using Codesafe,
+I want to complete a hands-on challenge that exposes a real security flaw in a login system,
+so that I can learn how insecure comparison logic leads to timing attacks and understand how to patch such vulnerabilities in real software.
+
+Explanation of educational value
+
+This challenge teaches learners a fundamental secure-coding concept: constant-time comparisons.
+It connects directly to Codesafe’s goals by:
+
+reinforcing practical security skills through scenario-based tasks (VIS-02)
+
+supporting learning progress and providing meaningful feedback (G-01)
+
+showing an authentic vulnerability found in real systems (platform mission)
+
+The task is moderately difficult and expected to take 30–60 minutes, providing meaningful practice without overwhelming new learners.
